@@ -88,7 +88,7 @@ export default /*#__PURE__*/{
   z-index: 10000000;
 }
 .hgl-wrapper.active .out-text > * {
-  color: #fff!important;
+  color: #fff;
 }
 .hgl-box {
   position: absolute;

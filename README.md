@@ -1,7 +1,7 @@
 
 # Vue Element Highlight
 
-This pack is a component for highlighting links, text, paragraphs or whatever. You can see the usage of this package in the screenshots and the link below for the demo
+This pack is a component for highlighting links, text, paragraphs or whatever. This package run very well on vue 2 and nuxt 2. You can see the usage of this package in the screenshots and the link below for the demo
 
 
 ## Screenshots
@@ -100,7 +100,7 @@ You can custom styling of this component by override and mix css class
 
 ## Tech Stack
 
-**Client:** Vue
+**Client:** Vue 2, Nuxt 2
 
 
 ## Origin Repository
@@ -121,3 +121,5 @@ support me through:
 - [Saweria](https://saweria.co/nuwas)
   or
 - [Buy me a coffe](https://www.buymeacoffee.com/nuwas)
+
+thank you
